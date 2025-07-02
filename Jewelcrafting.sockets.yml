@@ -213,16 +213,9 @@ resilience:
   power: [6, 12, 18]
 
 echo:
-  slot: bow
+  slot: [bow, crossbow]
   gem: yellow
-  power: [2, 4, 6]
-  # Optional Configs:
-  # - bonus projectiles (default: 1)
-
-echo:
-  slot: crossbow
-  gem: yellow
-  power: [5, 10, 15]
+  power: [3, 6, 9]
   # Optional Configs:
   # - bonus projectiles (default: 1)
 
@@ -719,8 +712,8 @@ Cover of Darkness:
   gem: opal
   power:
     power: [10, 15, 30]
-    chance: [10, 12, 15]
-    Max Count: [2, 4, 6]
+    chance: [5, 7, 9]
+    Max Count: [1, 1, 2]
 
 Retribution:
   slot: shield
@@ -748,12 +741,12 @@ Expert Swordsman:
 Increase Stamina:
   slot: utility
   gem: amethyst
-  power: [6, 9, 15]
+  power: [10, 20, 30]
 
 Increase Eitr:
   slot: head
   gem: amethyst
-  power: [6, 9, 15]
+  power: [10, 20, 30]
 
 Expert Brawler:
   slot: legs
