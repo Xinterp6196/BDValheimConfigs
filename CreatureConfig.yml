@@ -119,6 +119,54 @@ Deathsquito:
   effect:
     Quick: 0
 
+#Eikthyr:
+#  override:
+#    stars:
+#      0: [80, 20]
+#      1: [80, 20]
+#      2: [80, 20]
+#      3: [80, 20]
+#      4: [80, 20]
+#      5: [80, 20]
+#      6: [80, 20]
+#      7: [0, 0, 50, 30, 20]
+
+# Elder:
+#   override:
+#     stars:
+#       0: [60, 30, 10]
+#       1: [60, 30, 10]
+#       2: [60, 30, 10]
+#       3: [60, 30, 10]
+#       4: [60, 30, 10]
+#       5: [60, 30, 10]
+#       6: [60, 30, 10]
+#       7: [0, 0, 50, 30, 20]
+
+# Bonemass:
+#   override:
+#     stars:
+#       0: [40, 40, 15, 5]
+#       1: [40, 40, 15, 5]
+#       2: [40, 40, 15, 5]
+#       3: [40, 40, 15, 5]
+#       4: [40, 40, 15, 5]
+#       5: [40, 40, 15, 5]
+#       6: [40, 40, 15, 5]
+#       7: [0, 0, 50, 30, 20]
+
+# Moder:
+#   override:
+#     stars:
+#       0: [20, 45, 22, 11, 2]
+#       1: [20, 45, 22, 11, 2]
+#       2: [20, 45, 22, 11, 2]
+#       3: [20, 45, 22, 11, 2]
+#       4: [20, 45, 22, 11, 2]
+#       5: [20, 45, 22, 11, 2]
+#       6: [20, 45, 22, 11, 2]
+#       7: [0, 0, 50, 30, 20]
+
 # You can use the 'default' key word to use the configuration from the configuration file for a specific setting. This will use the default configuration for world level 0, but set a custom level up chance for world level 1.
 #Mountain:
 #  stars:
