@@ -115,14 +115,7 @@ merciful death:
   power: [33, 66, 100]
 
 elemental chaos:
-  slot: bow
-  gem: blue
-  power: [10, 20, 30]
-  # Optional Configs:
-  # - chance (default: 20)
-
-elemental chaos:
-  slot: crossbow
+  slot: [bow, crossbow]
   gem: blue
   power: [10, 20, 30]
   # Optional Configs:
@@ -268,16 +261,7 @@ explorer:
   power: [20, 40, 60]
 
 necromancer:
-  slot: bow
-  gem: green
-  power:
-    power: [10, 20, 30]
-  # Optional Configs: 
-    duration: [20, 20, 20]
-  # - duration (default: 10)
-
-necromancer:
-  slot: crossbow
+  slot: [bow, crossbow]
   gem: green
   power:
     power: [10, 20, 30]
@@ -388,16 +372,9 @@ eitr surge:
   power: [3, 6, 9]
 
 ricochet:
-  slot: bow
+  slot: [bow, crossbow]
   gem: orange
   power: [10, 15, 20]
-  # Optional Configs:
-  # - range (default: 15)
-
-ricochet:
-  slot: crossbow
-  gem: orange
-  power: [10, 20, 30]
   # Optional Configs:
   # - range (default: 15)
 
