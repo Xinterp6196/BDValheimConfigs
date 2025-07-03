@@ -18,4 +18,6 @@ All notable changes to these configs will be documented in this file.
 
 ## [1.0.0] - 07-03-2025
 ### Added Changelog for easier tracking on main.
-- Initial release
+- Initial TestENV
+- Added Changelog.md
+- Updated Readme.md
