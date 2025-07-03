@@ -585,7 +585,7 @@ Freezing Guard:
   slot: shield
   gem: aquamarine
   power:
-    power: [15, 30, 45]
+    power: [5, 10, 15]
     chance: [100, 100, 100]
 
 Wet Worker:
@@ -645,7 +645,7 @@ Burning Guard:
   slot: shield
   gem: garnet
   power:
-    power: [15, 30, 45]
+    power: [5, 10, 15]
     chance: [100, 100, 100]
 
 ## =========================================== ##
@@ -696,7 +696,7 @@ Retribution:
   slot: shield
   gem: opal
   power:
-    power: [15, 30, 45]
+    power: [5, 10, 15]
     chance: [100, 100, 100]
 
 ## =========================================== ##
