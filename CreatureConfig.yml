@@ -141,6 +141,9 @@ Boar:
   
 Neck:
   size: 0.2
+
+Lox:
+  size: 0.05
   
 Sheep_TW:
   size: 0.05

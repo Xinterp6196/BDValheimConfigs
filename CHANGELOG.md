@@ -34,3 +34,8 @@ All notable changes to these configs will be documented in this file.
     - 5 Star: 7
   - Ashlands creatures have a high chance for Fire Infusions and no chance for Frost Infusions.
   - Bosses now share their biomes star chance.
+
+## [1.1.1] - 07-07-2025
+### Lox Size Fix
+- Updated CreatureConfig.yml
+  - Lox size increase per star reduced to 5%.
