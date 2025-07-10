@@ -39,3 +39,11 @@ All notable changes to these configs will be documented in this file.
 ### Lox Size Fix
 - Updated CreatureConfig.yml
   - Lox size increase per star reduced to 5%.
+
+## [1.1.5] - 07-07-2025
+### Jewelcrafting Adjustments
+- Updated jewelcrafting.cfg
+  - Fusion Box xp ratio increased: 3 > 9
+  - Blessed Fusion Box xp ratio increased: 2 > 6
+  - Celestial Fusion Box xp ratio increased: 1 > 3
+  - Celestial Perfect fusion increased: 65 > 70
