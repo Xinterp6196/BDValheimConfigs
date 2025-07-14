@@ -335,7 +335,7 @@ unbreakable:
 ## =========================================== ##
 
 perforation:
-  slot: [knife, sword, spear, fist]
+  slot: [knife, sword, spear]
   gem: orange
   power: [5, 10, 15]
 

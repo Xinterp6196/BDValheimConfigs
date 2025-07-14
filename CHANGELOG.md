@@ -59,3 +59,10 @@ All notable changes to these configs will be documented in this file.
     - Thunderclap
       - Added Club as a usable wepaon for jewel socket
       - Added Axe as a usable wepaon for jewel socket
+
+## [1.1.11] - 07-13-2025
+### Jewelcrafting Adjustments
+- Updated jewelcrafting.cfg
+  - Orange/Humite Gem adjustments
+    - Perforation
+      - Removed Fist as a usable wepaon for jewel socket, Fists are not a changeable itemslot - Rollback
