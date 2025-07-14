@@ -335,12 +335,12 @@ unbreakable:
 ## =========================================== ##
 
 perforation:
-  slot: knife
+  slot: [knife, sword, spear, fist]
   gem: orange
   power: [5, 10, 15]
 
 thunderclap:
-  slot: polearm
+  slot: [polearm, club, axe]
   gem: orange
   power: [5, 10, 15]
 

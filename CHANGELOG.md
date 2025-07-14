@@ -47,3 +47,15 @@ All notable changes to these configs will be documented in this file.
   - Blessed Fusion Box xp ratio increased: 2 > 6
   - Celestial Fusion Box xp ratio increased: 1 > 3
   - Celestial Perfect fusion increased: 65 > 70
+
+## [1.1.10] - 07-13-2025
+### Jewelcrafting Adjustments
+- Updated jewelcrafting.cfg
+  - Orange/Humite Gem adjustments
+    - Perforation
+      - Added Sword as a usable wepaon for jewel socket
+      - Added Spear as a usable wepaon for jewel socket
+      - Added Fist as a usable wepaon for jewel socket
+    - Thunderclap
+      - Added Club as a usable wepaon for jewel socket
+      - Added Axe as a usable wepaon for jewel socket
