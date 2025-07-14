@@ -66,3 +66,10 @@ All notable changes to these configs will be documented in this file.
   - Orange/Humite Gem adjustments
     - Perforation
       - Removed Fist as a usable wepaon for jewel socket, Fists are not a changeable itemslot - Rollback
+
+## [1.1.12] - 07-13-2025
+### Jewelcrafting Adjustments
+- Updated jewelcrafting.cfg
+  - Wisplight Gem adjustments
+    - Wisplight
+      - Doubled base range of mist clearing
