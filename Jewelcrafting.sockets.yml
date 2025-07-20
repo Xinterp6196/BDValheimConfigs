@@ -92,7 +92,7 @@ ice heart:
 precious blood:
   slot: bloodmagic
   gem: blue
-  power: [3, 5, 7]
+  power: [5, 10, 15]
 
 vitality:
   slot: chest

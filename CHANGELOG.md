@@ -74,9 +74,12 @@ All notable changes to these configs will be documented in this file.
     - Wisplight
       - Doubled base range of mist clearing
 
-## [1.1.13] - 07-20-2025
+## [1.1.14] - 07-20-2025
 ### Jewelcrafting Adjustments
 - Updated jewelcrafting.cfg
   - Redish/Comfordium
     - Acceleration
       - Added Magic as a typing to allow for accelleration across all weapon types
+  - Blue/Sapphire
+    - Precious Blood
+      - Buffed values from 3, 5, 7 > 5, 10, 15 (May need further buff to 10, 20, 30)
