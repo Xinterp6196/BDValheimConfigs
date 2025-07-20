@@ -795,7 +795,7 @@ Invigorated:
   power: [10, 25, 50]
 
 Acceleration:
-  slot: weapon
+  slot: ['weapon', 'magic']
   gem: redish
   power: [6, 8, 12]
 

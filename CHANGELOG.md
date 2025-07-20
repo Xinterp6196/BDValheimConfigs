@@ -73,3 +73,10 @@ All notable changes to these configs will be documented in this file.
   - Wisplight Gem adjustments
     - Wisplight
       - Doubled base range of mist clearing
+
+## [1.1.13] - 07-20-2025
+### Jewelcrafting Adjustments
+- Updated jewelcrafting.cfg
+  - Redish/Comfordium
+    - Acceleration
+      - Added Magic as a typing to allow for accelleration across all weapon types
