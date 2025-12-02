@@ -463,3 +463,5 @@ Fader:
 #   Increase for all physical damage. 0 leaves the physical damage unchanged. 1 doubles the damage.
 # - Twin
 #   Multiplicator for health and damage of both twin bosses. 1 retains the default health and damage. 0.5 halves the shared health pool and their damage done.
+
+# TEST PUSH CONFIG
